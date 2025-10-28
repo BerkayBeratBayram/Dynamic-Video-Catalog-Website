@@ -1,1 +1,2 @@
-# Manually-Parsing-Website
+# Dynamic-Video-Catalog-Website
+Dynamic Video Catalog Website is a dynamic web application developed using PHP and MySQL. It allows users to register, log in, and view video content stored in a database. The project includes key web functionalities such as user authentication, video listing, and database interaction. The structure is modular, built with PHP components like header, footer, and navbar, and supported by HTML, CSS, and JavaScript for a responsive interface. All video and user data are managed dynamically through MySQL integration. This project serves as a clear and practical example of full-stack web development, focusing on backend logic, database management, and session handling.
